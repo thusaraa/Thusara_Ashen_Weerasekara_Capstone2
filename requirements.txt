@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-chroma
+chromadb
+pypdf
+python-dotenv
+rank_bm25
+sentence-transformers
+scikit-learn
