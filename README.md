@@ -10,9 +10,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Copy `.env.example` to `.env` and set `OPENROUTER_API_KEY`. For LangSmith traces, also set `LANGSMITH_API_KEY`. `LANGSMITH_TRACING=true` and `LANGSMITH_PROJECT=capstone-2` are already in the example.
-
-Put the two policy PDFs in `data/`. The filenames must match `CORPUS` in `config.py`.
+Put the two policy PDFs in `data/`. 
 
 ## Run
 
